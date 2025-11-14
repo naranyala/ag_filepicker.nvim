@@ -1,7 +1,7 @@
 
 # ag_filepicker.nvim
 
-[preview](./doc/preview.png)
+![preview](./doc/preview.png)
 
 ## how to use 
 
